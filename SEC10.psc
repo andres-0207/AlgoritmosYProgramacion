@@ -1,9 +1,9 @@
 Algoritmo SEC10
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Algoritmo que evalúa una expresión matemática (A+7*C)/(B+2-A)+2*B
+	//Algoritmo que evalÃºa una expresiÃ³n matemÃ¡tica (A+7*C)/(B+2-A)+2*B
 	
-	Definir A, B como reales;
+	Definir A, B, C como reales;
 	Imprimir "Introduzca A: ";
 	Leer A;
 	Imprimir "Introduzca B: ";
@@ -14,3 +14,4 @@ Algoritmo SEC10
 	Imprimir "El resultado es: ", Resultado
 	
 FinAlgoritmo
+
