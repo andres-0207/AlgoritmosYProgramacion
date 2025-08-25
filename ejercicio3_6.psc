@@ -1,7 +1,7 @@
 Algoritmo ejercicio3_6
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Escribir las siguientes expresiones algebraicas como expresiones algorítmicas
+	//Escribir las siguientes expresiones algebraicas como expresiones algorÃ­tmicas
 	
 	Definir a, b, c, x, y1, y2, x1, x2, z, r, d como reales;
 	Imprimir "Escriba el valor de a";
@@ -31,11 +31,12 @@ Algoritmo ejercicio3_6
 	Imprimir "El resultado de c) (3*x+2*y1)/2*c es ", (3*x+2*y1)/2*c;
 	Imprimir "El resultado de d) (a+b)/(c-d) es ", (a+b)/(c-d);
 	Imprimir "El resultado de e) 4*x^2-2*x+7 es ", 4*x^2-2*x+7;
-	Imprimir "El resultado de (x+y1)/x-(3*x)/5 es ", (x+y1)/x-(3*x)/5;
-	Imprimir "El resultado de a/(b*c) es ", a/(b*c);
-	Imprimir "El resultado de x*y1*z es ", x*y1*z;
-	Imprimir "El resultado de (y2-y1)/(x2-x1) es ", (y2-y1)/(x2-x1);
-	Imprimir "El resultado de 2*PI*r es ", 2*PI*r;
-	Imprimir "El resultado de 4/3*PI*r^3 es ", 4/3*PI*r^3;
-	Imprimir "El resultado de (x2-x1)^2+(y2-y1)^2 es ", (x2-x1)^2+(y2-y1)^2;
+	Imprimir "El resultado de f) (x+y1)/x-(3*x)/5 es ", (x+y1)/x-(3*x)/5;
+	Imprimir "El resultado de g) a/(b*c) es ", a/(b*c);
+	Imprimir "El resultado de h) x*y1*z es ", x*y1*z;
+	Imprimir "El resultado de i) (y2-y1)/(x2-x1) es ", (y2-y1)/(x2-x1);
+	Imprimir "El resultado de j) 2*PI*r es ", 2*PI*r;
+	Imprimir "El resultado de k) 4/3*PI*r^3 es ", 4/3*PI*r^3;
+	Imprimir "El resultado de l) (x2-x1)^2+(y2-y1)^2 es ", (x2-x1)^2+(y2-y1)^2;
 FinAlgoritmo
+
