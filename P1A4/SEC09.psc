@@ -1,5 +1,5 @@
 Algoritmo SEC09
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
 	//Algoritmo que calcula el volumen de una esfera
 	
@@ -7,6 +7,6 @@ Algoritmo SEC09
 	Escribir "Introduzca radio en metros: "
 	Leer Radio;
 	Volumen <- 4/3*PI*(radio*radio*radio)
-	Imprimir "El volumen es: ", Volumen, "m³"
+	Imprimir "El volumen es: ", Volumen, "mÂ³"
 	
 FinAlgoritmo
