@@ -1,7 +1,7 @@
 Algoritmo ejercicio3_7
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Escribir las siguientes expresiones algorítmicas como expresiones algebraicas
+	//Escribir las siguientes expresiones algorÃ­tmicas como expresiones algebraicas
 	
 	Definir a, b, c, x, yy como reales;
 	Imprimir "Escriba los valores que desea para a, b, c, x, yy, en su respectivo orden";
