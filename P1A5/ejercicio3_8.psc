@@ -1,5 +1,5 @@
 Algoritmo ejercicio3_8
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
 	//Si el valor de A es 4, el valor de B es 5 y el valor de C es 1, evaluar las siguientes expresiones:
 	
