@@ -1,7 +1,7 @@
 Algoritmo SEC02
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Algoritmo que suma dos números cuyos lores son ingresados por el teclado
+	//Algoritmo que suma dos nÃºmeros cuyos lores son ingresados por el teclado
 	Definir A,B, C Como enteros;
 	//Se piden valores para las variables "A" y "B"
 	Escribir "Ingresa un valor para A"
