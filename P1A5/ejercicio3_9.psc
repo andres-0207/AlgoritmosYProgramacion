@@ -1,7 +1,7 @@
 Algoritmo ejercicio3_9
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Si el valor de A es 2, B es 3 y C es 2, evaluar la expresión a^b^c
+	//Si el valor de A es 2, B es 3 y C es 2, evaluar la expresiÃ³n a^b^c
 	
 	Definir A, B, C como reales
 	A<-2
