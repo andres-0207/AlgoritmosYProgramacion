@@ -1,14 +1,14 @@
 Algoritmo SEC04
-	//00592567 Andr閟 El韆s May S醤chez
+	//00592567 Andr茅s El铆as May S谩nchez
 	//Ing. en TI
-	//Algoritmo que suma, resta, multiplicaci髇 y divisi髇 de dos n鷐eros enteros
+	//Algoritmo que suma, resta, multiplicaci贸n y divisi贸n de dos n煤meros enteros
 	
 	Definir S, R, M Como Enteros;
 	Definir D Como Real
 	
-	Escribir "Introduzca un n鷐ero entero: ";
+	Escribir "Introduzca un n煤mero entero: ";
 	Leer A;
-	Escribir "Introduzca otro n鷐ero entero: ";
+	Escribir "Introduzca otro n煤mero entero: ";
 	Leer B;
 	// Realizar las operaciones
 	S <- A + B;
@@ -18,6 +18,6 @@ Algoritmo SEC04
 	//Muestra en la consola los resultdos de las operaciones
 	Escribir "La suma es: ", S;
 	Escribir "La resta es: ", R;
-	Escribir "La multiplicaci髇 es: ", M;
-	Escribir "La divisi髇 es: ", D;
+	Escribir "La multiplicaci贸n es: ", M;
+	Escribir "La divisi贸n es: ", D;
 FinAlgoritmo
