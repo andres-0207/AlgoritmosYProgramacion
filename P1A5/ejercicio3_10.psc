@@ -1,7 +1,7 @@
 Algoritmo ejercicio3_10
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Obtener el valor de cada una de las siguientes expresiones aritméticas
+	//Obtener el valor de cada una de las siguientes expresiones aritmÃ©ticas
 	
 	Imprimir "El resultado de a) 7 div 2 es: ", trunc(7 / 2);
 	Imprimir "El resultado de b) 7 mod 2 es: ", 7 mod 2;
