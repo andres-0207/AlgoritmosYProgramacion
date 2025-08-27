@@ -1,7 +1,7 @@
 Algoritmo ejercicio3_4
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Evaluar la siguiente expresión para A=2 y B=5
+	//Evaluar la siguiente expresiÃ³n para A=2 y B=5
 	
 	definir A, B Como Reales
 	A<-2
