@@ -1,12 +1,12 @@
 Algoritmo SEC07
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Algoritmo que calcula la longitud y el área de una circunferencia
+	//Algoritmo que calcula la longitud y el Ã¡rea de una circunferencia
 	
 	Definir Radio Como Real
 	Escribir "Introduzca el radio: ";
 	Leer Radio;
-	Escribir "El área de la circunferencia es: ", (PI*Radio*Radio);
+	Escribir "El Ã¡rea de la circunferencia es: ", (PI*Radio*Radio);
 	Escribir "La longitud de la circunferencia es: ", PI*Radio*2
 	
 FinAlgoritmo
