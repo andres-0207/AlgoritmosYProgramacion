@@ -1,5 +1,5 @@
 Algoritmo SEC08
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
 	//Algoritmo que calcula la velocidad de un proyectil
 	
