@@ -1,7 +1,7 @@
 Algoritmo ejercicio3_11
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Encontrar el valor de cada una de las siguientes expresiones o decir si no es una expresión válida
+	//Encontrar el valor de cada una de las siguientes expresiones o decir si no es una expresiÃ³n vÃ¡lida
 	
 	Imprimir "El resultado de a) 9-5-3 es: ", 9-5-3;
 	Imprimir "El resultado de b) 2 div 3+3/5 es: ", trunc(2/3)+3/5;
