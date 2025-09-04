@@ -1,7 +1,7 @@
 Algoritmo DE01
-	//00592567 Andrés Elías May Sánchez
+	//00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	//Ing. en TI
-	//Calcular la paga neta de un trabajador conociendo el número de horas trabajadas, la tarifa horaria y la tasa de impuestos.
+	//Calcular la paga neta de un trabajador conociendo el nÃºmero de horas trabajadas, la tarifa horaria y la tasa de impuestos.
 	Definir nombre como caracter;
 	Definir horas como entero;
 	Definir precio, bruto, tasas, neto como real;
@@ -18,3 +18,4 @@ Algoritmo DE01
 	Imprimir "Salario neto: $", neto;
 	
 FinAlgoritmo
+
