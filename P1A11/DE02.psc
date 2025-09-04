@@ -1,16 +1,16 @@
 Algoritmo DE02
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Calcular el salario bruto y el salario neto de un trabajador "por horas" conociendo el nombre, número de horas trabajadas, impuestos a pagar y salario neto.
+	// Calcular el salario bruto y el salario neto de un trabajador "por horas" conociendo el nombre, nÃºmero de horas trabajadas, impuestos a pagar y salario neto.
 	Definir coste, valorRescate Como Real
 	Definir valorActual, depreciacion, vidaUtil, anio, acumulada Como Real
 	Escribir 'Ingresa el coste: $'
 	Leer coste
-	Escribir 'Ingresa la vida útil:'
+	Escribir 'Ingresa la vida Ãºtil:'
 	Leer vidaUtil
-	Escribir 'Ingresa el valor de rescate:' // año de caducidad
+	Escribir 'Ingresa el valor de rescate:' // aÃ±o de caducidad
 	Leer valorRescate
-	Escribir 'Ingresa el año:'
+	Escribir 'Ingresa el aÃ±o:'
 	Leer anio
 	
 	vida <- vidaUtil-anio
