@@ -1,7 +1,7 @@
 Algoritmo DE04
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	//Suma de los números pares comprendidos entre 2 y 100.
+	//Suma de los nÃºmeros pares comprendidos entre 2 y 100.
 	
 	Definir suma, nnumero como reales;
 	suma <- 2;
@@ -12,6 +12,7 @@ Algoritmo DE04
 		nnumero <- nnumero + 2;
 	Mientras Que nnumero <= 100
 	
-	Imprimir "La suma de los números pares comprendidos entre 2 y 100 es: ", suma;
+	Imprimir "La suma de los nÃºmeros pares comprendidos entre 2 y 100 es: ", suma;
 	
 FinAlgoritmo
+
