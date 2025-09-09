@@ -1,7 +1,7 @@
 Algoritmo DE07
-    // 00592567 Andrés Elías May Sánchez
+    // 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Dados tres números, determinar si la suma de cualquier pareja de ellos es igual al tecer número. Si se cumple esta condición, escribir "Iguales" y, en caso contrario, escribir "Distintas".
+	// Dados tres nÃºmeros, determinar si la suma de cualquier pareja de ellos es igual al tecer nÃºmero. Si se cumple esta condiciÃ³n, escribir "Iguales" y, en caso contrario, escribir "Distintas".
 	
 	Definir a, b, c Como Real
     Escribir "Ingrese a, b y c:"
@@ -21,4 +21,5 @@ Algoritmo DE07
         FinSi
     FinSi
 	
+
 FinAlgoritmo
