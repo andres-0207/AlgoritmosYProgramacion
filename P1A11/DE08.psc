@@ -1,7 +1,7 @@
 Algoritmo DE08
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Calcular la suma de los cicuenta primeros números enteros.
+	// Calcular la suma de los cicuenta primeros nÃºmeros enteros.
 	
 	Definir contador, acumulador Como Reales;
 	contador <- 0;
@@ -9,6 +9,6 @@ Algoritmo DE08
 		acumulador <- acumulador + contador;
 		contador <- contador + 1;
 	FinMientras
-	Imprimir "La suma de los cincuenta primeros números enteros es:", acumulador;
+	Imprimir "La suma de los cincuenta primeros nÃºmeros enteros es:", acumulador;
 	
 FinAlgoritmo
