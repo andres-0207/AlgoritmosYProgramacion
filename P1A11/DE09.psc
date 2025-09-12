@@ -1,7 +1,7 @@
 Algoritmo DE09
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que calcule el producto de los n primeros números naturales.
+	// Escribir un algoritmo que calcule el producto de los n primeros nÃºmeros naturales.
 	
 	Definir N, P Como Reales;
 	Imprimir "Ingrese un valor para N:";
@@ -17,8 +17,9 @@ Algoritmo DE09
 		FinMientras
 		Escribir "Factorial = ", P;
 	sino
-		Imprimir "Número negativo"
+		Imprimir "NÃºmero negativo"
 		Imprimir "Prueba con positivos"
 	FinSi
 	
+
 FinAlgoritmo
