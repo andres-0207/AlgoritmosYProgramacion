@@ -1,7 +1,7 @@
 Algoritmo DE10
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que acepte tres números enteros e imprima el mayor de ellos.
+	// Escribir un algoritmo que acepte tres nÃºmeros enteros e imprima el mayor de ellos.
 	
 	Definir A, B, C Como Reales;
 	Imprimir "Ingrese un valor para A, B y C";
@@ -17,4 +17,5 @@ Algoritmo DE10
 				sino imprimir A;
 			FinSi
 		FinSi
+
 FinAlgoritmo
