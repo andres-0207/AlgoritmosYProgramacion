@@ -1,7 +1,7 @@
 Algoritmo CON10
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Para ingresar a un cierto espectáculo se requere ser varón mayor de 18 años. Escriba un proceso que decida si una persona puede o no ingresar al espectáculo.
+	// Para ingresar a un cierto espectÃ¡culo se requere ser varÃ³n mayor de 18 aÃ±os. Escriba un proceso que decida si una persona puede o no ingresar al espectÃ¡culo.
 	
 	Definir sexo Como Caracter;
 	Definir edad Como Entero;
