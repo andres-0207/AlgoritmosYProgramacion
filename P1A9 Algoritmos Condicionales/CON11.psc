@@ -1,7 +1,7 @@
 Algoritmo CON11
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que lea desde el teclado el importe bruto de una factura y determine el importe neto según los siguientes criterios:
+	// Escribir un algoritmo que lea desde el teclado el importe bruto de una factura y determine el importe neto segÃºn los siguientes criterios:
 	// -Importe bruto menor de 20.000 - Sin descuento
 	// -Importe bruto mayor de 20.000 - 15% de descuento
 	
