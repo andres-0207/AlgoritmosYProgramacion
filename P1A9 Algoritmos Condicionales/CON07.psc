@@ -1,10 +1,10 @@
 Algoritmo CON07
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	//  Escribir un algoritmo que dado un número del 1 a 12 escriba el correspondiente nombre del mes del año al que equivale.
+	//  Escribir un algoritmo que dado un nÃºmero del 1 a 12 escriba el correspondiente nombre del mes del aÃ±o al que equivale.
 	
 	Definir mes Como Entero;
-	Imprimir "Ingrese un número del 1 al 12 para ver su mes correspondiente";
+	Imprimir "Ingrese un nÃºmero del 1 al 12 para ver su mes correspondiente";
 	Leer mes;
 	Segun mes Hacer
 		1: Imprimir "Enero";
@@ -20,7 +20,7 @@ Algoritmo CON07
 		11: Imprimir "Noviembre";
 		12: Imprimir "Diciembre";
 		De Otro Modo:
-			Imprimir "El número tiene que estar entre 1 y 12";
+			Imprimir "El nÃºmero tiene que estar entre 1 y 12";
 	FinSegun
 	
 FinAlgoritmo
