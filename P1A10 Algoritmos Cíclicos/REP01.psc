@@ -1,5 +1,5 @@
 Algoritmo REP01
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
 	// Escribir un algoritmo que permita realizar divisiones hasta que el usuario desee terminar.
 	
@@ -11,12 +11,13 @@ Algoritmo REP01
 		Imprimir "Escribe el divisor";
 		Leer divisor;
 		Si divisor <> 0 Entonces
-			Imprimir "La división es: ", dividendo / divisor;
+			Imprimir "La divisiÃ³n es: ", dividendo / divisor;
 		Sino
-			Imprimir "División por cero";
+			Imprimir "DivisiÃ³n por cero";
 		FinSi
-		Imprimir "¿Hacer otra división?: (S/N):";
+		Imprimir "Â¿Hacer otra divisiÃ³n?: (S/N):";
 		Leer ch;
 	Hasta Que Mayusculas(ch) = "N";
 	
+
 FinAlgoritmo
