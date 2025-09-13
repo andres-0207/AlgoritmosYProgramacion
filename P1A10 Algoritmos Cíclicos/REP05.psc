@@ -1,7 +1,7 @@
 Algoritmo REP05
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que sume los números comprendidos entre 1 y 10.
+	// Escribir un algoritmo que sume los nÃºmeros comprendidos entre 1 y 10.
 	
 	Definir acumulador, contador Como Enteros;
 	contador <- 1;
@@ -9,6 +9,6 @@ Algoritmo REP05
 		acumulador <- acumulador + contador;
 		contador <- contador + 1;
 	FinMientras
-	Imprimir "La suma de los números comprendidos entre 1 y 10 es: ", acumulador;
+	Imprimir "La suma de los nÃºmeros comprendidos entre 1 y 10 es: ", acumulador;
 	
 FinAlgoritmo
