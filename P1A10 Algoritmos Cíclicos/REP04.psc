@@ -1,7 +1,7 @@
 Algoritmo REP04
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que visualice en pantalla los números múltiplos de 5 comprendidos entre 1 y 100.
+	// Escribir un algoritmo que visualice en pantalla los nÃºmeros mÃºltiplos de 5 comprendidos entre 1 y 100.
 	
 	Definir num Como Entero;
 	num <- 1;
