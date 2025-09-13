@@ -1,7 +1,7 @@
 Algoritmo REP03
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que visualice en pantalla los números pares entre 1 y 30.
+	// Escribir un algoritmo que visualice en pantalla los nÃºmeros pares entre 1 y 30.
 	
 	Definir num Como Entero;
 	num <- 1;
