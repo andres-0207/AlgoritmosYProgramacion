@@ -1,7 +1,7 @@
 Algoritmo REP08
-	// 00592567 Andrés Elías May Sánchez
+	// 00592567 AndrÃ©s ElÃ­as May SÃ¡nchez
 	// Ing. en TI
-	// Escribir un algoritmo que calcule la suma de los cuadrados de los 100 primeros números enteros.
+	// Escribir un algoritmo que calcule la suma de los cuadrados de los 100 primeros nÃºmeros enteros.
 	Definir contador, acumulador Como Enteros;
 	contador <- 1;
 	Repetir
